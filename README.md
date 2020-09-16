@@ -7,8 +7,7 @@ Ressources complémentaires :
 - https://www.youtube.com/watch?v=s7wmiS2mSXY What is an API (MuleSoft)
 - https://a16z.com/2018/03/13/api-economy-why-what-how/
 - https://a16z.com/2018/03/09/api-world-summit/ (The World Through an API)
-- https://kissmyfrogs.com/startup-api/
-https://kissmyfrogs.com/mehdi-medjaoui-oauth-api-startup/
+- https://kissmyfrogs.com/startup-api/, https://kissmyfrogs.com/mehdi-medjaoui-oauth-api-startup/
 
 - https://www.youtube.com/watch?v=7YcW25PHnAA (REST API concepts and examples)
 
