@@ -27,6 +27,8 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
  - référence de l'objet connecté 
   
   - exemple innovation Radio france API : https://hyperradio.radiofrance.fr/actualite/vous-aussi-participez-a-la-creation-de-la-radio-de-demain-avec-lopen-api-de-radio-france/ 
+  
+  - https://www.journaldunet.com/solutions/cloud-computing/1181302-twilio-la-start-up-qui-motorise-les-services-de-communication-de-facebook-ou-uber/
 
 
 ## cours 2
