@@ -20,7 +20,7 @@ Where CaaS comes in is that much of the reasoning capabilities that Semantic Web
 
 Everything is going to get smarter. Your phone, your calendar, your watch, your radio, your TV, your car, your refrigerator, your house, your glasses, your briefcase and clothing. The vast cognitive capabilities of the global CaaS providers will be cheap and available via APIs to every device from the nano scale up to the giant global applications and services."
 
- - ALEXA API example
+ - ALEXA API example : https://www.01net.com/actualites/il-pirate-l-assistant-alexa-pour-en-faire-un-poisson-qui-parle-1056346.html 
  
  - le chiffre d'affaire sur les AWS, un descriptif des APIs proposés par AWS
  
