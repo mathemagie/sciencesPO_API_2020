@@ -26,7 +26,7 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
  
  - Le chiffre d'affaire de AWS : https://www.capital.fr/entreprises-marches/decouvrez-aws-lactivite-qui-rapporte-plus-a-amazon-que-le-e-commerce-1336734 
  
-  - Développement de nouveaux services Radio france API : https://hyperradio.radiofrance.fr/actualite/vous-aussi-participez-a-la-creation-de-la-radio-de-demain-avec-lopen-api-de-radio-france/ 
+  - Développement de nouveaux services à partir de l'openAPI Radio france : https://hyperradio.radiofrance.fr/actualite/vous-aussi-participez-a-la-creation-de-la-radio-de-demain-avec-lopen-api-de-radio-france/ 
   
   - https://www.journaldunet.com/solutions/cloud-computing/1181302-twilio-la-start-up-qui-motorise-les-services-de-communication-de-facebook-ou-uber/
 
