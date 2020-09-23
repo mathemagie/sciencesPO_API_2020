@@ -33,7 +33,9 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 
 ## cours 2
 
- - création d'un compte sur https://openweathermap.org/, notion d'API keys , bien lire la documentation (RTFM) 
+ - création d'un compte sur https://openweathermap.org/, notion d'API keys , bien lire la documentation (RTFM),
+ 
+  - création d'un compte sur https://repl.it/~, d'un projet basé sur le language PYTHON2.7
  
  - how to control a PLAYBULB LED flameless candle with nothing but JavaScript thanks to the experimental Web Bluetooth API: https://codelabs.developers.google.com/codelabs/candle-bluetooth/index.html?index=..%2F..index#0 
  
