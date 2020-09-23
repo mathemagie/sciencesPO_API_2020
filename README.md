@@ -45,6 +45,8 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
  - Exercices demandés : récupération de la météo pour une autre ville, récupération de la température min et max, changer de métrics, illuminer la bougie connectée au passage de l'ISS, d'une donnée disponible sur https://opendata.paris.fr/ 
  
 -  PI https://mangomap.com/robertyoung/maps/69585/what-utm-zone-am-i-in-#
+
+- Pour changer la couleur de PLAYBULB LED : https://changecolor-candle.glitch.me/bleu, https://changecolor-candle.glitch.me/jaune, https://changecolor-candle.glitch.me/rouge
  
  
   
