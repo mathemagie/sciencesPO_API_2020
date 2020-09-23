@@ -33,7 +33,7 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 
 ## cours 2
 
- - création d'un compte sur https://openweathermap.org/, notion d'API keys , bien lire la documentation (RTFM),
+ - création d'un compte sur https://openweathermap.org/, notion d'API keys , bien lire la documentation (RTFM), en savoir un peu plus sur ce fameux JSON 
  
   - création d'un compte sur https://repl.it/~, d'un projet basé sur le language PYTHON2.7
  
