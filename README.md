@@ -41,12 +41,13 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
  
 - http://www.playbulb.com/index.html, la référence sur Amazon : https://www.amazon.fr/Mipow-Playbulb-Candle-Bougie-Connecte/dp/B00PB4VXDS/ref=sxts_sxwds-bia-wc-p13n1_0?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&cv_ct_cx=playbulb&dchild=1&keywords=playbulb&pd_rd_i=B00PB4VXDS&pd_rd_r=69225581-a305-4c5d-8a5c-ca56f3103d96&pd_rd_w=X19uF&pd_rd_wg=3TbLz&pf_rd_p=98f58b7e-b9e8-4e4c-bba9-709ba4f88207&pf_rd_r=TEPHMJF9P57N3HTCQJ1K&psc=1&qid=1600855107&sr=1-1-ac3a866f-801f-44fe-9e94-bb9a271cf6b8 
 
-
- - Exercices demandés : récupération de la météo pour une autre ville, récupération de la température min et max, changer de métrics, illuminer la bougie connectée au passage de l'ISS, d'une donnée disponible sur https://opendata.paris.fr/ 
  
 -  PI https://mangomap.com/robertyoung/maps/69585/what-utm-zone-am-i-in-#
 
 - Pour changer la couleur de PLAYBULB LED : https://changecolor-candle.glitch.me/bleu, https://changecolor-candle.glitch.me/jaune, https://changecolor-candle.glitch.me/rouge
+
+ - Exercices demandés : récupération de la météo pour une autre ville, récupération de la température min et max, changer de métrics, illuminer la bougie connectée au passage de l'ISS, d'une donnée disponible sur https://opendata.paris.fr/, envoyer un SMS au passage de l'ISS ou autre donnée à définir ! 
+
  
  
   
