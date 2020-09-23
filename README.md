@@ -32,3 +32,10 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 
 
 ## cours 2
+
+ - création d'un compte sur https://openweathermap.org/, notion d'API keys , bien lire la documentation
+ 
+ - exercices demandés : récupération de la météo pour une autre ville, récupération de la température min et max, chanager de métrics 
+ 
+ 
+  
