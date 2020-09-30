@@ -45,7 +45,11 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 
 - Pour changer la couleur de PLAYBULB LED : https://changecolor-candle.glitch.me/bleu, https://changecolor-candle.glitch.me/jaune, https://changecolor-candle.glitch.me/rouge
 
- - Exercices demandés : récupération de la météo pour une autre ville, récupération de la température min et max, changer de métrics, illuminer la bougie connectée au passage de l'ISS, d'une donnée disponible sur https://opendata.paris.fr/, envoyer un SMS au passage de l'ISS ou autre donnée à définir ! 
+ - Exercices demandés 1/ récupération de la météo pour une autre ville, récupération de la température min et max, changer de métrics, 
+ 
+thématiques abordées lors de ce cours : consommation d'une API de donnée après création d'un compte et création d'un TOKEN associé (le TOKEN est là pour authentifier qui efectue la réquête à l'API) , ce que c'est que le format JSON,  
+
+outils en ligne pour formater le JSON : http://json.parser.online.fr/ ou d'autres disponibles dans cet article : https://blog.shevarezo.fr/post/2015/05/19/outils-reformater-code-json-beautify 
  
  ## cours 3
  
@@ -58,6 +62,23 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
 - Raphael : https://changecolor-candle.glitch.me/jaune
 - Imane :  https://changecolor-candle.glitch.me/flash
 - Marius : https://changecolor-candle.glitch.me/rainbow
+
+ - Exercices demandés 
+ -  1/ lluminer la bougie connectée au passage de l'ISS 
+ -  2/ d'une donnée disponible sur https://opendata.paris.fr/, 
+ -  3/ envoyer un SMS au passage de l'ISS ou autre donnée à définir ! 
+ - 4 et enfin être producteur d'une API en ligne : transformaer une feuille Google Sheet en une API JSON soit au total 5 développements par élève 
+ 
+ 
+ ## cours 4 
+ 
+ GoogleMaps
+ 
+ ## cours 5
+ 
+ IFTTT 
+ 
+ ## cours 6 
 
 
  
