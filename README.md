@@ -46,6 +46,19 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 - Pour changer la couleur de PLAYBULB LED : https://changecolor-candle.glitch.me/bleu, https://changecolor-candle.glitch.me/jaune, https://changecolor-candle.glitch.me/rouge
 
  - Exercices demandés : récupération de la météo pour une autre ville, récupération de la température min et max, changer de métrics, illuminer la bougie connectée au passage de l'ISS, d'une donnée disponible sur https://opendata.paris.fr/, envoyer un SMS au passage de l'ISS ou autre donnée à définir ! 
+ 
+ ## cours 3
+ 
+URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
+
+Samir : https://changecolor-candle.glitch.me/vert
+Thero : https://changecolor-candle.glitch.me/bleu
+Philippine : https://changecolor-candle.glitch.me/orange
+Camille : https://changecolor-candle.glitch.me/rouge
+Raphael : https://changecolor-candle.glitch.me/jaune
+Imane :  https://changecolor-candle.glitch.me/rose
+Marius : https://changecolor-candle.glitch.me/violet
+
 
  
  
