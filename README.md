@@ -66,7 +66,7 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
  ### Exercices demandés 
  -  1/ lluminer la bougie connectée au passage de l'ISS 
  -  2/ d'une donnée disponible sur https://opendata.paris.fr/, 
- -  3/ envoyer un SMS au passage de l'ISS ou autre donnée à définir ! 
+ -  3/ envoyer un SMS via l'API https://www.twilio.com/ au passage de l'ISS ou autre donnée à définir ! 
  -  4/ et enfin être producteur d'une API en ligne : transformaer une feuille Google Sheet en une API JSON avec cet outil https://sheety.co/
  
  soit au total 5 développements par élève 
