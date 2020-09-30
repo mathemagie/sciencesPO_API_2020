@@ -51,13 +51,13 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
  
 URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
 
-Samir : https://changecolor-candle.glitch.me/vert
-Thero : https://changecolor-candle.glitch.me/bleu
-Philippine : https://changecolor-candle.glitch.me/orange
-Camille : https://changecolor-candle.glitch.me/rouge
-Raphael : https://changecolor-candle.glitch.me/jaune
-Imane :  https://changecolor-candle.glitch.me/rose
-Marius : https://changecolor-candle.glitch.me/violet
+- Samir : https://changecolor-candle.glitch.me/vert
+- Thero : https://changecolor-candle.glitch.me/bleu
+- Philippine : https://changecolor-candle.glitch.me/orange
+- Camille : https://changecolor-candle.glitch.me/rouge
+- Raphael : https://changecolor-candle.glitch.me/jaune
+- Imane :  https://changecolor-candle.glitch.me/rose
+- Marius : https://changecolor-candle.glitch.me/violet
 
 
  
