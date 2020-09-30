@@ -63,11 +63,13 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
 - Imane :  https://changecolor-candle.glitch.me/flash
 - Marius : https://changecolor-candle.glitch.me/rainbow
 
- - Exercices demandés 
+ ### Exercices demandés 
  -  1/ lluminer la bougie connectée au passage de l'ISS 
  -  2/ d'une donnée disponible sur https://opendata.paris.fr/, 
  -  3/ envoyer un SMS au passage de l'ISS ou autre donnée à définir ! 
- - 4 et enfin être producteur d'une API en ligne : transformaer une feuille Google Sheet en une API JSON soit au total 5 développements par élève 
+ -  4/ et enfin être producteur d'une API en ligne : transformaer une feuille Google Sheet en une API JSON avec cet outil https://sheety.co/
+ 
+ soit au total 5 développements par élève 
  
  
  ## cours 4 
