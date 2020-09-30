@@ -56,8 +56,8 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
 - Philippine : https://changecolor-candle.glitch.me/orange
 - Camille : https://changecolor-candle.glitch.me/rouge
 - Raphael : https://changecolor-candle.glitch.me/jaune
-- Imane :  https://changecolor-candle.glitch.me/rose
-- Marius : https://changecolor-candle.glitch.me/violet
+- Imane :  https://changecolor-candle.glitch.me/flash
+- Marius : https://changecolor-candle.glitch.me/rainbow
 
 
  
