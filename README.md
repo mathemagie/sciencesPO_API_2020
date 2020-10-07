@@ -67,6 +67,7 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
  -  2/ lluminer la bougie connectée au passage de l'ISS 
  -  3/ lluminer la bougie connectée à partir d'une donnée disponible sur https://opendata.paris.fr/, 
  
+ TODO : vidéo qui permette de voir comment on connecte un objet connecté en WEBBLE
  
  
  ## cours 4 
@@ -74,7 +75,7 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
  2 exercices : 
  
   -  4/ envoyer un SMS via l'API https://www.twilio.com/ au passage de l'ISS ou autre donnée à définir ! 
-  -  5/ et enfin être producteur d'une API en ligne : transformaer une feuille Google Sheet en une API JSON avec cet outil https://sheety.co/
+  -  5/ et enfin être producteur d'une API en ligne : transformer une feuille Google Sheet en une API JSON avec cet outil https://sheety.co/ et récupérer cette donnée depuis un script en python
    - prise en main IFTTT 
    - 6/ création d'un script en python sur la base des précéndents scripts qui utilise un webHook IFTTT
    - 7 - 
