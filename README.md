@@ -77,11 +77,14 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
   -  4/ envoyer un SMS via l'API https://www.twilio.com/ au passage de l'ISS ou autre donnée à définir ! 
   -  5/ et enfin être producteur d'une API en ligne : transformer une feuille Google Sheet en une API JSON avec cet outil https://sheety.co/ et récupérer cette donnée depuis un script en python
    - prise en main IFTTT 
+   
+
+ ## cours 5
+ 
+ découverte des servives IFTTT https://ifttt.com/home et https://zapier.com/
+ 
    - 6/ 7 /création de deux script en python sur la base des précéndents scripts qui utilise un webHook IFTTT
    - 8/ par écrit, 5 recettes IFTTT avec des services / ingrédients non proposés par le service IFTTT  
-
- 
- ## cours 5
  
  
  ## cours 6 
