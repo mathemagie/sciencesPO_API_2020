@@ -1,6 +1,6 @@
 Bien faire le distingo entre API de donnée et API Logicielle, ainsi que API en lecture et API en écriture
 
-## Philippine DES RIEUX 
+## P DES R 
 
 5 phrases avec des services IFTTT
 
