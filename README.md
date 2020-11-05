@@ -88,6 +88,39 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
  
  
  ## cours 6 
+ 
+ ## récapitulatif des exercices 
+ 
+ - 1/ récupération de la météo pour une autre ville, récupération de la température min et max, changer de métrics, 
+ - 2/ lluminer la bougie connectée au passage de l'ISS 
+ - 3/ lluminer la bougie connectée à partir d'une donnée disponible sur https://opendata.paris.fr/
+ - 4/ envoyer un SMS via l'API https://www.twilio.com/ au passage de l'ISS ou autre donnée à définir ! 
+ - 5/ et enfin être producteur d'une API en ligne : transformer une feuille Google Sheet en une API JSON avec cet outil https://sheety.co/ et récupérer cette donnée depuis un script en python
+  - 6/ 7 /création de deux script en python sur la base des prédécents scripts qui utilise un webHook IFTTT
+  - 8/ par écrit, 5 recettes IFTTT avec des services / ingrédients non proposés par le service IFTTT  
+ 
+ 
+ ## Pour aller plus loin 
+ 
+  - https://pragprog.com/titles/maapis/design-and-build-great-web-apis/
+  - https://a16z.com/2018/03/13/api-economy-why-what-how/ (L'économie de l'API - Le pourquoi, le quoi et le comment) 
+  - https://a16z.com/2018/03/09/api-world-summit/ (Le monde à travers une API)
+  - https://www.programmableweb.com/ : site de référence qui catalogue les APIs 
+  
+   - un MOOC sur les APIs : https://mooc-francophone.com/cours/utilisez-des-api-rest-dans-vos-projets-web/ 
+   - https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web/6573188-tirez-un-maximum-de-ce-cours 
+  
+  
+ ## Acquisitions lors de ce cours 
+ 
+ ## sujets non abordée en profondeur lors de ce cours 
+ 
+ - proroci
+
+  
+  
+ 
+ 
 
 
  
