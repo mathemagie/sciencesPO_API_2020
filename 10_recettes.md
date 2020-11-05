@@ -43,7 +43,12 @@ I. If "Reddit user posts with the tag #election result" then "send email"
 II. If "Received email on gmail from directeur de mémoire" then "send sms saying <look up your emails>"
 III. If "The sun is set" and "Tour Eiffel is off" then "turn on the lights"
 IV. If "smart lock opens" and "localisation data indicates I'm still at work" then "send sms"
-V. If user says "Alexa, trigger the emergency lock" then "lock all smart locks in the house" and "close the shutters".
+V. If user says "Alexa, trigger the emergency lock" then "lock all smart locks in the house" and "close the shutters".  If "user likes a song on spotify" then "fetch the link on youtube" and "add it to a sheet"
+
+If "receive an email by @harvard.edu containing the word diploma" then "print the attached file"
+If "asking Alexa <how are you?>" then "Alexa answers <I'm not feeling so good">
+If  "fridge is empty" then "send sms with the link to Carrefour Drive and the last order pre-loaded"
+If "biometrics not ok" then "book an appointment on doctolib" and "add it to the schedule"
 
 
 ## T R
@@ -51,4 +56,18 @@ V. If user says "Alexa, trigger the emergency lock" then "lock all smart locks i
 ## H I
 
 ## H R
+
+IFTTT  : 
+1- Créer playlist spotify avec les vidéos youtube likées
+2- A chaque nouvelle photo android prise dans une certaine zone, le partager sur un drive avec des amis
+3- A chaque commande de Uber, l'entrer dans une nvlle colonne spread sheet
+4- A chaque nouvelle note sur mon carnet evernote, envoyer un mail à ma classe pour leur partager
+5- Lors du coucher de soleil, allumer en rouge ma lampe connectée
+
+Non-IFTTT : 
+1- Publier en même temps sur ebay, Amazon, Cdiscount, LebonCoin, FbMarket depuis une interface centralisée 
+2- Éclairer ma lampe d'une certaine couleur à chaque fois que le PSG marque un but, et d'une autre si l'équipe prendre un but (+ cartons rouges)
+3- Si il fait moins de 10° à Paris, allumer mon chauffage
+4- Si pollution de l'air au dessus d'un certain seuil, m'envoyer un sms le matin
+5- Si promo Steam à + de 80%, acheter automatiquement au dessus d'un certain seul de téléchargement et d'une certaine notation parmi une liste de styles de jeux
 
