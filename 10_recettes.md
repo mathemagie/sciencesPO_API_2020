@@ -20,6 +20,19 @@ Bien faire le distingo entre API de donnée et API Logicielle, ainsi que API en 
 
 ## C C
 
+Mes 5 phrases avec des services proposés par IFTTT:
+- Si une nouvelle carte Trello m'est assignée alors m'envoyer un mail (avec Trello et Gmail).
+- S'il est 8h30, allumer les lampes de toute la maison (avec Date and Time et Hue). 
+- Si la wifi de ma Bbox Miami se désactive, alors m'envoyer un SMS (avec Bbox Miami et Android SMS). 
+- Si je like une vidéo sur Youtube, alors ajouter la musique du clip dans mes favoris Deezer (avec Youtube et Deezer). 
+- Si je presse le bouton (sous la forme d'un widget, sur l'écran d'accueil de mon smartphone), alors enregistrer la localisation où je me trouve dans le spreadsheet intitulé "Spots à voir" (avec Button press et Google Sheets).
+Mes 5 phrases avec d'autres services non proposés par IFTTT:
+- Si un commerçant situé dans un rayon de moins de 1km de chez moi propose le click and collect, alors rentrer le nom de son commerce et son adresse dans un Excel / Google Sheets. 
+- Si je me situe à moins de 5 mètres d'un arbre remarquable de la ville de Paris, alors m'envoyer un sms avec le trajet jusqu'à l'arbre, une photo de l'arbre en question et son histoire (pourquoi est-il célèbre ? qu'a-t-il de spécial ?). 
+- La nuit du jour du dépassement (jour à partir duquel l'humanité a consommé toutes les ressources que la Terre est capable de régénérer en un an), faire s'allumer tous les réverbères parisiens en vert. 
+- Le 4 novembre à 16h16, envoyer un sms à tous les hommes souscrivant à un abonnement téléphonique sur le réseau télécom français: "Du fait des inégalités salariales, à partir de maintenant et jusqu'au 31 décembre, votre mère, votre épouse ou compagne, votre fille et toutes les femmes de votre entourage commencent à travailler gratuitement pour l'année 2020."
+- A 20h le jour de Noël, diffuser "Et demain" du Collectif (vidéo et musique tournées pendant le premier confinement) via des enceintes connectées dans tous les hôpitaux français. 
+
 ## M G
 
 1. avec IFTTT 
@@ -52,6 +65,27 @@ If "biometrics not ok" then "book an appointment on doctolib" and "add it to the
 
 
 ## T R
+
+IFTTT: 
+- If any new photo is added to IOS Photo 
+- Then send tweet on my account 
+- If there is a new blog post on EqualRights.org - Then make a donation to your favourite charity 
+- If Arlo sensor detects motion 
+- Then boost money to your child by rooster money 
+- If there is a new Fact Check Feed 
+- Then wifi will be turned on 
+- If there is an open recall for USDA 
+- Then wifi will be turned off 
+Fictional: 
+- If asylum seeker is denied access to France 
+- Then donate money to local asylum seeker center 
+- If my screen time goes over 6h/day 
+- Then lock my phone 
+- If the Queen makes a public appearance 
+- Then play “Killer Queen” by Queen on Spotify 
+- If Mercury is in Retrograde 
+- Then send my email daily quotes from Gandhi 
+
 
 ## H I
 
