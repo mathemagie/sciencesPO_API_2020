@@ -113,10 +113,18 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
   
  ## Acquisitions lors de ce cours 
  
+- qu'est ce qu'une API logicielle et data
+- la notion de Token
+- consommer une API data et logicielle
+- structurer la requête à l'API
+- interpréter la réponse (souvent retournée dans le format JSON
+- notion d'API pour un objet connecté
+- notion d'API en lecture et écrture
+
+ 
  ## sujets non abordée en profondeur lors de ce cours 
  
- - proroci
-
+ - design d'une API, standard REST, verbes HTTPS, l'authentication oauth2 
   
   
  
