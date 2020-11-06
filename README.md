@@ -89,6 +89,11 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
  
  ## cours 6 
  
+  - tour d'horizon des phrases API 
+  - creuser la faisabilité technnique (reférence open data , une donnée sur une site, un portail API, etc) pour les phrases non basées sur des services proposées par IFTTT
+    - TODO : lien vers slides "API sciencesPO 2"
+
+ 
  ## récapitulatif des exercices 
  
  - 1/ récupération de la météo pour une autre ville, récupération de la température min et max, changer de métrics, 
@@ -125,6 +130,11 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
  ## sujets non abordée en profondeur lors de ce cours 
  
  - design d'une API, standard REST, verbes HTTPS, l'authentication oauth2 
+ 
+ 
+ ## TODO
+  - ajout d'une vidéo explicative sur la connection webBLE d'une lampe connecté 
+  - 
   
   
  
